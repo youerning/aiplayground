@@ -1,2 +1,2 @@
 # aiplayground
-learn ml/dl notebook
+AI 练习场
